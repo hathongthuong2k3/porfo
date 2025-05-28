@@ -1,0 +1,57 @@
+{
+  "skills": [
+    {
+      "id": "1",
+      "src": "./img/product-chain-1.png",
+      "title": "Front-End",
+      "description": "Crafting responsive, accessible, and visually engaging interfaces using React, JavaScript, HTML5, and Tailwind CSS. I focus on delivering seamless user experiences through clean design and performance optimization."
+    },
+    {
+      "id": "2",
+      "src": "./img/tag-1.png",
+      "title": "Back-End",
+      "description": "Building scalable and secure APIs with Node.js and Express, integrating with databases like MongoDB and PostgreSQL. My back-end work emphasizes efficiency, maintainability, and robust architecture."
+    },
+    {
+      "id": "3",
+      "src": "./img/feather-pen-2.png",
+      "title": "UI & UX Design",
+      "description": "Designing intuitive and user-centered interfaces with attention to usability and aesthetics. I combine logic and creativity to turn complex workflows into simple, delightful experiences."
+    },
+    {
+      "id": "4",
+      "src": "./img/feather-pen-1.png",
+      "title": "Webflow Development",
+      "description": "Developing visually impressive and high-performance websites using Webflow. Perfect for rapid prototyping, marketing sites, and SEO-friendly layouts with pixel-perfect design control."
+    }
+  ],
+  "portfolio": [
+    {
+      "id": "1",
+      "src": "./img/placeholder-image.png",
+      "title": "Gear Shop",
+      "description": "A website for a gear shop that showcases products, features a shopping cart, and integrates payment processing. Built with React and Tailwind CSS for a modern, responsive design.",
+      "link": "View In Github",
+      "deployUrl": "https://shop-cxs4.onrender.com/",
+      "githubUrl": "https://github.com/hathongthuong2k3/Shop"
+    },
+    {
+    "id": "2",
+    "src": "./img/placeholder-image-1.png",
+    "title": "Social app for developers",
+    "description": "A social app designed for developers to connect, share projects, and collaborate. Features user profiles, project showcases, and a community forum. Built with React and Node.js.",
+    "link": "View In Github",
+    "deployUrl": "https://dev-io-1.onrender.com/",
+    "githubUrl": "https://github.com/hathongthuong2k3/dev.io"
+  },
+  {
+    "id": "3",
+    "src": "./img/placeholder-image-2.png",
+    "title": "Smart Home App",
+    "description": "A smart home application that allows users to control IoT devices, monitor energy usage, and automate tasks. Built with React Native for cross-platform mobile support.",
+    "link": "View In Github",
+    "deployUrl": "",
+    "githubUrl": "https://github.com/hathongthuong2k3/smart-home-final"
+  }
+  ]
+}
